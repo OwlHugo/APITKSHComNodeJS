@@ -1,0 +1,9 @@
+# Arquivos de compilação
+dist/
+
+# Arquivos e diretórios gerados pela IDE/editor
+.idea/
+.vscode/
+
+# Dependências Node.js
+node_modules/
